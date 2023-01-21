@@ -1,0 +1,29 @@
+.App {
+  background: repeating-radial-gradient(rgb(87, 29, 248) 10%,rgb(234, 104, 23) 20%,rgb(51, 230, 15) 50%,rgb(247, 25, 166) 60%);
+ width: 500px;
+ height: 300px;
+ margin: 100px auto;
+ font-weight: bold;
+ text-align: center;
+ color: white;
+ box-shadow: 0 5px 10px black;
+ padding: 20px;
+ }
+.App p{
+  margin: 30px;
+  margin-left: 70px;
+  margin-right: 50px;
+ background: linear-gradient(45deg,rgb(0, 255, 42),rgb(6, 71, 212),rgb(0, 217, 255),rgb(225, 10, 175));
+ box-shadow: 0 5px 10px black;
+  width: 60%;
+  padding: 20px;
+  text-align: justify;
+  text-shadow: 2px;
+}
+.App span{
+  
+ background:linear-gradient(45deg, rgb(47, 50, 25) ,rgb(172, 9, 9),rgb(27, 139, 14));
+  color: transparent;
+ -webkit-background-clip: text;
+ 
+} 
